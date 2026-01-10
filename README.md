@@ -15,8 +15,7 @@ This repository contains the computational analysis pipeline for genome-wide fun
 If you use this code or data, please cite:
 
 ```
-[Authors et al.]. Functional genomics of Clostridium autoethanogenum during autotrophic growth.
-Nature Communications (2026). DOI: [to be added upon publication]
+Angela Re,Gianfranco Michele Maria Politano, Kristina Reinmets, Alfredo Benso, Laurence Girbal, Muriel Cocaign-Bousquet, Kaspar Valgepea, Systems-level analysis identifies protein-RNA interactions contributing to autotrophy of Clostridium autoethanogenum, Nature Communications (2026). DOI: [to be added upon publication]
 ```
 
 ## Installation
@@ -156,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or issues, please:
 - Open an issue on this GitHub repository
-- Contact: [your email here]
+- Contact: angela.re@polito.it 
 
 ## Acknowledgments
 
