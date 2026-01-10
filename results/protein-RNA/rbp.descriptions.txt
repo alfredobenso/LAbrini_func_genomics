@@ -1,0 +1,101 @@
+	Translation	Ribosome	Aminoacyl.tRNA.biosynthesis	Transfer.RNA.biogenesis	RBP.score	RBP.Pfam.domains	Product.description.KO	Product.description.ncbi		Name.to.use
+LAbrini_09595	FALSE	TRUE	FALSE	FALSE	0.99731123	Ribosomal_S20p	type Z 30S ribosomal protein S14	type Z 30S ribosomal protein S14		type Z 30S ribosomal protein S14
+LAbrini_09530	FALSE	TRUE	FALSE	FALSE	0.99725026	NusB	30S ribosomal protein S4	30S ribosomal protein S4		30S ribosomal protein S4
+LAbrini_09615	FALSE	TRUE	FALSE	FALSE	0.9963595	Ribosomal_L22	30S ribosomal protein S17	30S ribosomal protein S17		30S ribosomal protein S17
+LAbrini_16815	FALSE	FALSE	FALSE	FALSE	0.99616975	Ribosomal_S13	ribonuclease III	ribonuclease III		ribonuclease III
+LAbrini_09710	FALSE	TRUE	FALSE	FALSE	0.9959632	Ribonuclease_P	50S ribosomal protein L10	50S ribosomal protein L10		50S ribosomal protein L10
+LAbrini_09665	FALSE	TRUE	FALSE	FALSE	0.9958401	Ribosomal_L23	30S ribosomal protein S10	30S ribosomal protein S10		30S ribosomal protein S10
+LAbrini_08135	FALSE	FALSE	FALSE	FALSE	0.9956845	"RNase_PH;RNase_PH_C;Ham1p_like"	#N/D	hypothetical protein		hypothetical protein
+LAbrini_06555	FALSE	FALSE	TRUE	FALSE	0.99533635	Ribosomal_L18p	phenylalanine--tRNA ligase subunit alpha	phenylalanine--tRNA ligase subunit alpha		phenylalanine--tRNA ligase subunit alpha
+LAbrini_15230	FALSE	FALSE	FALSE	FALSE	0.99524915	Ribosomal_S11	carbon storage regulator	carbon storage regulator CsrA		carbon storage regulator
+LAbrini_16855	FALSE	FALSE	FALSE	FALSE	0.9950353	"Ribosomal_S5;Ribosomal_S5_C"	hypothetical protein	KH domain-containing protein		KH domain-containing protein
+LAbrini_10490	FALSE	TRUE	FALSE	FALSE	0.9949663	"Ribosomal_L11;Ribosomal_L11_N"	50S ribosomal protein L9	50S ribosomal protein L9		50S ribosomal protein L9
+LAbrini_17015	FALSE	FALSE	FALSE	FALSE	0.9948283	PseudoU_synth_2	polyribonucleotide nucleotidyltransferase	polyribonucleotide nucleotidyltransferase		polyribonucleotide nucleotidyltransferase
+LAbrini_09540	FALSE	TRUE	FALSE	FALSE	0.9946827	tRNA-synt_1c	30S ribosomal protein S13	30S ribosomal protein S13		30S ribosomal protein S13
+LAbrini_15315	FALSE	FALSE	FALSE	FALSE	0.9944084	Ribosomal_S8	carbon storage regulator	carbon storage regulator		carbon storage regulator
+LAbrini_10625	FALSE	TRUE	FALSE	FALSE	0.9943012	"KOW;ribosomal_L24"	RNA-binding protein	S4 domain-containing protein YaaA		RNA-binding protein
+LAbrini_02630	FALSE	FALSE	FALSE	FALSE	0.9938723	Ribosomal_L1	#N/D	hypothetical protein		hypothetical protein
+LAbrini_06560	FALSE	FALSE	FALSE	TRUE	0.9937312	"B3_4;B5;FDX-ACB;tRNA-synt_2d;tRNA_bind"	RNA methyltransferase	RNA methyltransferase		RNA methyltransferase
+LAbrini_16720	FALSE	FALSE	FALSE	FALSE	0.99343634	Ribosomal_L21p	ribosome small subunit-dependent GTPase A	ribosome small subunit-dependent GTPase A		ribosome small subunit-dependent GTPase A
+LAbrini_16885	FALSE	FALSE	FALSE	FALSE	0.9934228	"PseudoU_synth_2;S4"	ribonuclease HII	ribonuclease HII		ribonuclease HII
+LAbrini_11470	FALSE	TRUE	FALSE	FALSE	0.99339104	Ribosomal_L3	16S rRN	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA		ribosomal RNA small subunit methyltransferase A
+LAbrini_16975	FALSE	FALSE	FALSE	FALSE	0.993375	"S4;tRNA-synt_1b"	DUF448 domain-containing protein	YlxR family protein		YlxR family protein
+LAbrini_11465	FALSE	FALSE	FALSE	FALSE	0.9932736	"S4;Ribosomal_S4"	ribonuclease M5	ribonuclease M5		ribonuclease M5
+LAbrini_09580	FALSE	TRUE	FALSE	FALSE	0.99305576	"TruB-C_2;TruB_C_2;TruB_N"	50S ribosomal protein L18	50S ribosomal protein L18		50S ribosomal protein L18
+LAbrini_06580	FALSE	FALSE	TRUE	FALSE	0.99295515	"Ribosomal_L2;Ribosomal_L2_C"	threonine--tRNA ligase	threonine--tRNA ligase		threonine--tRNA ligase
+LAbrini_09590	FALSE	TRUE	FALSE	FALSE	0.99256283	RNase_HII	30S ribosomal protein S8	30S ribosomal protein S8		30S ribosomal protein S8
+LAbrini_11695	FALSE	TRUE	FALSE	FALSE	0.9924826	Ribosomal_L4	50S ribosomal protein L31	50S ribosomal protein L31		50S ribosomal protein L31
+LAbrini_09650	FALSE	TRUE	FALSE	FALSE	0.99245477	Ribosomal_S15	50S ribosomal protein L23	50S ribosomal protein L23		50S ribosomal protein L23
+LAbrini_13925	FALSE	FALSE	FALSE	FALSE	0.9924217	Ribosomal_L20	DNA-binding protein	S1-like domain-containing RNA-binding protein		S1-like domain-containing RNA-binding protein
+LAbrini_16480	FALSE	FALSE	TRUE	FALSE	0.9923671	Ribosomal_S7	alanine--tRNA ligase	alanine--tRNA ligase		alanine--tRNA ligase
+LAbrini_04005	FALSE	FALSE	FALSE	FALSE	0.99235815	Ribosomal_S14	tRNA 4-thiouridine(8) synthase ThiI	tRNA 4-thiouridine(8) synthase ThiI		tRNA 4-thiouridine(8) synthase ThiI
+LAbrini_09605	FALSE	TRUE	FALSE	FALSE	0.9923029	"RsgA_GTPase;RsgA_N"	50S ribosomal protein L24	50S ribosomal protein L24		50S ribosomal protein L24
+LAbrini_09575	FALSE	TRUE	FALSE	FALSE	0.99222153	"S1;KH_1;PNPase;RNase_PH;RNase_PH_C"	30S ribosomal protein S5	30S ribosomal protein S5		30S ribosomal protein S5
+LAbrini_17055	FALSE	FALSE	FALSE	FALSE	0.9920196	Ribosom_S12_S23	ribonuclease Y	ribonuclease Y		ribonuclease Y
+LAbrini_08685	FALSE	FALSE	FALSE	FALSE	0.9919471	Ribosomal_S18	SsrA-binding protein SmpB	SsrA-binding protein SmpB		SsrA-binding protein SmpB
+LAbrini_15020	FALSE	FALSE	FALSE	FALSE	0.99191284	Ribosomal_L27A	ATP-dependent helicase	DEAD/DEAH box helicase		DEAD/DEAH box helicase
+LAbrini_09500	FALSE	FALSE	FALSE	TRUE	0.99183464	Ribosomal_L14	tRNA pseudouridine(38-40) synthase TruA	tRNA pseudouridine(38-40) synthase TruA		tRNA pseudouridine(38-40) synthase TruA
+LAbrini_14530	FALSE	TRUE	FALSE	FALSE	0.9915861	"KH_2;Ribosomal_S3_C"	GTPase Era	GTPase Era		GTPase Era
+LAbrini_08580	FALSE	FALSE	FALSE	FALSE	0.99133873	Tyr_Deacylase	#N/D	hypothetical protein		hypothetical protein
+LAbrini_17000	FALSE	FALSE	FALSE	TRUE	0.9912844	Pribosyltran	tRNA pseudouridine(55) synthase TruB	tRNA pseudouridine(55) synthase TruB		tRNA pseudouridine(55) synthase TruB
+LAbrini_09625	FALSE	TRUE	FALSE	FALSE	0.99117905	Ribosomal_S19	50S ribosomal protein L16	50S ribosomal protein L16		50S ribosomal protein L16
+LAbrini_09600	FALSE	TRUE	FALSE	FALSE	0.99108446	Ribosomal_S6	50S ribosomal protein L5	50S ribosomal protein L5		50S ribosomal protein L5
+LAbrini_17670	FALSE	FALSE	FALSE	FALSE	0.9907554	SmpB	#N/D	hypothetical protein		hypothetical protein
+LAbrini_09770	FALSE	TRUE	FALSE	FALSE	0.99068797	"Ribosomal_L5;Ribosomal_L5_C"	hypothetical protein	Mini-ribonuclease 3		Mini-ribonuclease 3
+LAbrini_19185	FALSE	TRUE	FALSE	FALSE	0.99064016	Ribosomal_L10	RluA family pseudouridine synthase	RluA family pseudouridine synthase		RluA family pseudouridine synthase
+LAbrini_00995	FALSE	FALSE	FALSE	FALSE	0.9906068	Ribosomal_L6	RNA chaperone Hfq	RNA chaperone Hfq		RNA chaperone Hfq
+LAbrini_06495	FALSE	FALSE	FALSE	FALSE	0.9904304	eIF-1a	#N/D	tyrosine--tRNA ligase		tyrosine--tRNA ligase
+LAbrini_09550	TRUE	FALSE	FALSE	FALSE	0.99014246	S4	translation initiation factor IF-1	translation initiation factor IF-1		translation initiation factor IF-1
+LAbrini_01925	FALSE	FALSE	FALSE	FALSE	0.9901406	Ribosomal_L16	tRNA 2-thiouridine(34) synthase MnmA	tRNA 2-thiouridine(34) synthase MnmA		tRNA 2-thiouridine(34) synthase MnmA
+LAbrini_11530	FALSE	FALSE	TRUE	FALSE	0.9900962	Ribosomal_S10	isoleucine--tRNA ligase	isoleucine--tRNA ligase		isoleucine--tRNA ligase
+LAbrini_09630	FALSE	TRUE	FALSE	FALSE	0.98994094	"Anticodon_1;tRNA-synt_1"	30S ribosomal protein S3	30S ribosomal protein S3		30S ribosomal protein S3
+LAbrini_16705	FALSE	TRUE	FALSE	FALSE	0.9894862	Ribosomal_S17	23S rRNA (adenine(2503)-C(2))-methyltransferas	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN		23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+LAbrini_10605	FALSE	FALSE	FALSE	TRUE	0.9891817	"KH_1;DUF3552;HD"	ribonuclease P protein component	ribonuclease P protein component		ribonuclease P protein component
+LAbrini_09585	FALSE	TRUE	FALSE	FALSE	0.9884149	"Ribosomal_L9_C;Ribosomal_L9_N"	50S ribosomal protein L6	50S ribosomal protein L6		50S ribosomal protein L6
+LAbrini_15815	FALSE	TRUE	FALSE	FALSE	0.98665524	"DHHA1;tRNA-synt_2c;tRNA_SAD"	RluA family pseudouridine synthase	RluA family pseudouridine synthase		RluA family pseudouridine synthase
+LAbrini_14425	FALSE	TRUE	FALSE	FALSE	0.9866356	"PseudoU_synth_2;S4"	30S ribosomal protein S20	30S ribosomal protein S20		30S ribosomal protein S20
+LAbrini_09610	FALSE	TRUE	FALSE	FALSE	0.98650825	Ribosomal_L31	50S ribosomal protein L14	50S ribosomal protein L14		50S ribosomal protein L14
+LAbrini_15825	FALSE	FALSE	FALSE	FALSE	0.9845926	RrnaAD	bifunctional pyr operon transcriptiona	bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR		
+LAbrini_09680	FALSE	TRUE	FALSE	FALSE	0.9841285	"KH_2;MMR_HSR1"	30S ribosomal protein S7	30S ribosomal protein S7		30S ribosomal protein S7
+LAbrini_16700	FALSE	TRUE	FALSE	FALSE	0.9833592	-	16S rRNA (cytosine(967)-C(5))-methyltransferas	16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB		
+LAbrini_12155	FALSE	FALSE	FALSE	FALSE	0.983247	"tRNA_SAD;HGTP_anticodon;TGS;tRNA-synt_2b"	type II toxin-antitoxin system PemK/MazF famil	type II toxin-antitoxin system PemK/MazF family toxin		type II toxin-antitoxin system PemK/MazF family toxin
+LAbrini_08740	FALSE	FALSE	FALSE	TRUE	0.9832312	"THUMP;ThiI"	tRN	tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL		tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL
+LAbrini_12395	FALSE	FALSE	FALSE	FALSE	0.981779	"S4;tRNA-synt_1b"	class I SAM-dependent RNA methyltransferase	class I SAM-dependent RNA methyltransferase		class I SAM-dependent RNA methyltransferase
+LAbrini_09715	FALSE	TRUE	FALSE	FALSE	0.98158765	"Fer4_14;Radical_SAM"	50S ribosomal protein L1	50S ribosomal protein L1		50S ribosomal protein L1
+LAbrini_10520	FALSE	FALSE	FALSE	FALSE	0.9776664	S4_2	single-stranded DNA-binding protein	30S ribosomal protein S6		single-stranded DNA-binding protein
+LAbrini_16880	FALSE	TRUE	FALSE	FALSE	0.97734374	"tRNA-synt_2d;Phe_tRNA-synt_N"	ribosome biogenesis GTPase YlqF	ribosome biogenesis GTPase YlqF		ribosome biogenesis GTPase YlqF
+LAbrini_16780	FALSE	FALSE	FALSE	FALSE	0.9739232	PseudoU_synth_1	#N/D	nucleotidyltransferase		nucleotidyltransferase
+LAbrini_14195	FALSE	TRUE	FALSE	FALSE	0.97047913	"Ribonucleas_3_3;dsrm"	pseudouridine synthase	RluA family pseudouridine synthase		pseudouridine synthase
+LAbrini_09655	FALSE	TRUE	FALSE	FALSE	0.969681	CsrA	50S ribosomal protein L4	50S ribosomal protein L4		50S ribosomal protein L4
+LAbrini_17010	FALSE	TRUE	FALSE	FALSE	0.96932644	CsrA	30S ribosomal protein S15	30S ribosomal protein S15		30S ribosomal protein S15
+LAbrini_06565	FALSE	TRUE	FALSE	FALSE	0.9690833	"DEAD;Helicase_C"	50S ribosomal protein L20	50S ribosomal protein L20		50S ribosomal protein L20
+LAbrini_16035	FALSE	TRUE	FALSE	FALSE	0.9675231	tRNA_Me_trans	TlyA family rRN	TlyA family RNA methyltransferase		TlyA family RNA methyltransferase
+LAbrini_09720	FALSE	TRUE	FALSE	FALSE	0.96651566	KH_4	50S ribosomal protein L11	50S ribosomal protein L11		50S ribosomal protein L11
+LAbrini_15795	FALSE	FALSE	FALSE	FALSE	0.9592731	Hfq	#N/D	YlmH/Sll1252 family protein		YlmH/Sll1252 family protein
+LAbrini_09970	FALSE	FALSE	FALSE	FALSE	0.9581299	Ribonuclease_3	#N/D	RNA-binding S4 domain-containing protein		RNA-binding S4 domain-containing protein
+LAbrini_06195	FALSE	FALSE	FALSE	TRUE	0.9575796	"DUF4093;Toprim;Toprim_4"	D-tyrosyl-tRNA(Tyr) deacylase	D-aminoacyl-tRNA deacylase		D-aminoacyl-tRNA deacylase
+LAbrini_06550	FALSE	FALSE	TRUE	FALSE	0.95071286	HIGH_NTase1	phenylalanine--tRNA ligase subunit beta	phenylalanine--tRNA ligase subunit beta		phenylalanine--tRNA ligase subunit beta
+LAbrini_09640	FALSE	TRUE	FALSE	FALSE	0.9483186	OrfB_Zn_ribbon	30S ribosomal protein S19	30S ribosomal protein S19		30S ribosomal protein S19
+LAbrini_09635	FALSE	TRUE	FALSE	FALSE	0.9477508	#N/D	50S ribosomal protein L22	50S ribosomal protein L22		50S ribosomal protein L22
+LAbrini_09535	FALSE	FALSE	FALSE	FALSE	0.93900365	"S1;KH_5;NusA_N"	#N/D	30S ribosomal protein S11		30S ribosomal protein S11
+LAbrini_07665	FALSE	FALSE	FALSE	TRUE	0.9333318	DUF448	ribonuclease PH	ribonuclease PH		ribonuclease PH
+LAbrini_18795	FALSE	FALSE	FALSE	FALSE	0.9324941	"PseudoU_synth_2;S4"	#N/D	hypothetical protein		hypothetical protein
+LAbrini_04095	FALSE	TRUE	FALSE	FALSE	0.92250305	"PseudoU_synth_2;S4"	30S ribosomal protein S1	30S ribosomal protein S1		30S ribosomal protein S1
+LAbrini_06850	FALSE	FALSE	FALSE	FALSE	0.9080281	"S1;LYTB"	type I-B CRISPR-associated protein Cas5	type I-B CRISPR-associated protein Cas5b		type I-B CRISPR-associated protein Cas5b
+LAbrini_07735	FALSE	TRUE	FALSE	FALSE	0.90705067	#N/D	rRNA pseudouridine synthase	rRNA pseudouridine synthase		rRNA pseudouridine synthase
+LAbrini_08310	FALSE	FALSE	TRUE	FALSE	0.9042976	"CBS;DHH;DHHA1;PolyA_pol;PolyA_pol_RNAbd;tRNA_NucTran2_2"	tyrosine--tRNA ligase	tyrosine--tRNA ligase		tyrosine--tRNA ligase
+LAbrini_08225	FALSE	FALSE	FALSE	FALSE	0.88736457	#N/D	#N/D	hypothetical protein		hypothetical protein
+LAbrini_09685	FALSE	TRUE	FALSE	FALSE	0.8792266	"S1;S1_2"	30S ribosomal protein S12	30S ribosomal protein S12		30S ribosomal protein S12
+LAbrini_16090	FALSE	FALSE	FALSE	FALSE	0.8690132	"DEAD;Helicase_C;DbpA"	CCA tRNA nucleotidyltransferase	CCA tRNA nucleotidyltransferase		CCA tRNA nucleotidyltransferase
+LAbrini_17105	FALSE	FALSE	TRUE	FALSE	0.86548537	MMR_HSR1	glutamate--tRNA ligase	glutamate--tRNA ligase		glutamate--tRNA ligase
+LAbrini_09565	FALSE	TRUE	FALSE	FALSE	0.86084676	PemK_toxin	50S ribosomal protein L15	50S ribosomal protein L15		50S ribosomal protein L15
+LAbrini_07100	FALSE	FALSE	FALSE	FALSE	0.8551071	"SpoU_methylase;SpoU_sub_bind"	ATP-dependent helicase	DEAD/DEAH box helicase		DEAD/DEAH box helicase
+LAbrini_10510	FALSE	FALSE	FALSE	FALSE	0.8523033	"THUMP;UPF0020"	#N/D	30S ribosomal protein S18		30S ribosomal protein S18
+LAbrini_16970	FALSE	FALSE	FALSE	FALSE	0.8414906	Flavodoxin_5	transcription termination/antiterminatio	transcription termination factor NusA		transcription termination factor NusA
+LAbrini_02175	FALSE	FALSE	FALSE	FALSE	0.83104897	Cas_Cas5d	#N/D	hypothetical protein		hypothetical protein
+LAbrini_10855	FALSE	FALSE	FALSE	FALSE	0.8295603	SpoU_methylase	transposase	RNA-guided endonuclease TnpB family protein		RNA-guided endonuclease TnpB family protein
+LAbrini_14160	FALSE	TRUE	FALSE	FALSE	0.8013866	"NusB;Methyltr_RsmB-F;Methyltr_RsmF_N"	50S ribosomal protein L21	50S ribosomal protein L21		50S ribosomal protein L21
+LAbrini_01070	FALSE	TRUE	FALSE	FALSE	0.7964104	#N/D	rRNA pseudouridine synthase	rRNA pseudouridine synthase		rRNA pseudouridine synthase
+LAbrini_09660	FALSE	TRUE	FALSE	FALSE	0.792466	"S4;FtsJ"	50S ribosomal protein L3	50S ribosomal protein L3		50S ribosomal protein L3
+LAbrini_16010	FALSE	FALSE	FALSE	FALSE	0.755841	RdRP	transcription antitermination factor NusB	transcription antitermination factor NusB		transcription antitermination factor NusB
+LAbrini_09645	FALSE	TRUE	FALSE	FALSE	0.75252837	S4	50S ribosomal protein L2	50S ribosomal protein L2		50S ribosomal protein L2
