@@ -30,11 +30,10 @@ rbp.retained = c("LAbrini_16815","LAbrini_08135","LAbrini_15230","LAbrini_16855"
 #-------------------------------------------------------------------------------
 
 # Load gene annotations to Kegg Orthology pathways according to Level 3 in Table S3 of Valgepea et al. (10.1128/msystems.00026-22)
-fid = read.xlsx("./LT_LAbrini_func_annot/LAbrini KEGG IDs_Kaspar curated.xlsx", sheetName = "Kaspar curated")
+fid = read.xlsx("../data/Kegg Orthology pathway annotations", sheetName = "Kaspar curated")
 
 # Load C. autoethanogenum gene annotations according to NCBI
-ncbif = read.delim("./LT_LAbrini_ncbi_dataset/ncbi_dataset/data/GCA_040166795.1/genomic.gff",
-                   header=FALSE, comment.char = "#", sep="\t")
+ncbif = read.delim("../data/GCA_040166795.1/genomic.gff",  header=FALSE, comment.char = "#", sep="\t")
 annotf = ncbif[ncbif[,3] %in% "CDS",]
 # CDS IDs
 cdsIds = as.vector(sapply(annotf[,9], function(x) strsplit(x,";")[[1]][1]))
@@ -48,7 +47,7 @@ locusTags = gsub("Parent=gene-", "", locusTags)
 # translated (DTL) genes
 #-------------------------------------------------------------------------------
 
-f.abs = read.delim("./pol.rnk/abs_translation_diff_results.csv", sep=",")
+f.abs = read.delim("../results/DTL/pol.rnk/abs_translation_diff_results.csv", sep=",")
 
 #_______________________________________________________________________________
 #_______________________________________________________________________________
@@ -84,7 +83,7 @@ pol.deg.tss[,2] = gsub("\\-","\\.",pol.deg.tss[,2])
 pol.deg.tss[,2] = gsub("\\+","\\.",pol.deg.tss[,2])
 
 # Retrieve catRAPID predictions of protein-RNA interactions 
-f = read.delim("catRAPID.output.genomewide.txt", header=TRUE)
+f = read.delim("../results/protein-RNA/catRAPID.5utr.output.genomewide.txt", header=TRUE)
 f$Protein_ID = gsub( "\\.","_",f$Protein_ID)
 f = f[is.na(f$rnaFrag_start)==FALSE & is.na(f$rnaFrag_end)==FALSE,]
 
@@ -165,10 +164,10 @@ rbp.pol.deg.top.n.names = rbp.target.pred.names
 
 # Print protein-RBA interactions
 write.xlsx(rbp.pol.deg.top.n.names, col.names=TRUE, row.names=FALSE, 
-           file="../results/protein-RNA/catrapid.rbp.target.pred.xlsx", 
+           file="../results/protein-RNA/catrapid.5utr.rbp.target.pred.xlsx", 
            sheetName = "pol.deg.top.n")
 write.xlsx(rbp.pol.deg.top.n, col.names=TRUE, row.names=FALSE, 
-           file="../results/protein-RNA/catrapid.rbp.target.pred.xlsx",
+           file="../results/protein-RNA/catrapid.5utr.rbp.target.pred.xlsx",
            append = TRUE, sheetName = "detail.pol.deg.top.n")
 
 
@@ -197,7 +196,7 @@ tot.deg.tss[,2] = gsub("\\-","\\.",tot.deg.tss[,2])
 tot.deg.tss[,2] = gsub("\\+","\\.",tot.deg.tss[,2])
 
 # Retrieve catRAPID predictions of protein-RNA interactions 
-f = read.delim("catRAPID.output.genomewide.txt", header=TRUE)
+f = read.delim("../results/protein-RNA/catRAPID.5utr.output.genomewide.txt", header=TRUE) 
 f$Protein_ID = gsub( "\\.","_",f$Protein_ID)
 f = f[(is.na(f$rnaFrag_start)==FALSE) & (is.na(f$rnaFrag_end)==FALSE),]
 
@@ -278,10 +277,10 @@ rbp.tot.deg.top.n.names = rbp.target.pred.names
 
 # Print the results
 write.xlsx(rbp.tot.deg.top.n.names, col.names=TRUE, row.names=FALSE, 
-           file="../results/protein-RNA/catrapid.rbp.target.pred.xlsx", 
+           file="../results/protein-RNA/catrapid.5utr.rbp.target.pred.xlsx", 
            append = TRUE, sheetName = "tot.deg")
 write.xlsx(rbp.tot.deg.top.n, col.names=TRUE, row.names=FALSE, 
-           file="../results/protein-RNA/catrapid.rbp.target.pred.xlsx", 
+           file="../results/protein-RNA/catrapid.5utr.rbp.target.pred.xlsx", 
            append = TRUE, sheetName = "detail.tot.deg")
 
 
@@ -508,7 +507,7 @@ pol.deg.tts[,2] = gsub("\\-","\\.",pol.deg.tts[,2])
 pol.deg.tts[,2] = gsub("\\+","\\.",pol.deg.tts[,2])
 
 # Retrieve catRAPID predictions of protein-RNA interactions
-f = read.delim("catRAPID.3utr.output.genomewide.txt", header=TRUE)
+f = read.delim("../results/protein-RNA/catRAPID.3utr.output.genomewide.txt", header=TRUE)
 f$Protein_ID = gsub( "\\.","_",f$Protein_ID)
 f = f[is.na(f$rnaFrag_start)==FALSE & is.na(f$rnaFrag_end)==FALSE,]
 
@@ -617,7 +616,7 @@ tot.deg.tts[,2] = gsub("\\-","\\.",tot.deg.tts[,2])
 tot.deg.tts[,2] = gsub("\\+","\\.",tot.deg.tts[,2])
 
 # Retrieve catRAPID predictions of protein-RNA interactions
-f = read.delim("catRAPID.3utr.output.genomewide.txt", header=TRUE)
+f = read.delim("../results/protein-RNA/catRAPID.3utr.output.genomewide.txt", header=TRUE)
 f$Protein_ID = gsub( "\\.","_",f$Protein_ID)
 f = f[is.na(f$rnaFrag_start)==FALSE & is.na(f$rnaFrag_end)==FALSE,]
 
